@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@800&display=swap');
+
+
+.card1-bg{
+    background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));  
+}
+
+body{
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+
+.round-border{
+    border-radius: 9%;
+}
+
+.round2-border{
+    border-radius: 1em;
+}
+
+.div-cir{
+    width: 5cm;
+    height: 5cm;
+    border-radius: 50%;
+    background-image: linear-gradient( hsla(256, 72%, 46%, 1),  hsla(241, 72%, 46%, 0));
+}
+
+.bg-lightred{
+    background-color: hsl(0, 100%, 96%);
+}
+
+.reaction-text{
+    color: hsl(0, 100%, 67%);
+}
+
+.b-color{
+    color: black;
+    text-align:;
+}
+
+.grey-text{
+    color: rgb(185, 184, 184);
+    
+}
+
+.reaction-color{
+    color: hsl(0, 100%, 67%);
+}
+
+.reaction-bg{
+    background-color: hsl(0, 32%, 92%);
+}
+
+.memory-color{
+    color: hsl(39, 100%, 56%);
+}
+
+.memory-bg{
+    background-color: hsl(38, 61%, 92%);
+}
+
+
+.verbal-color{
+    color: hsl(166, 100%, 37%);
+}
+
+.verbal-bg{
+    background-color: hsl(167, 58%, 91%);
+}
+
+.visual-color{
+    color: hsl(234, 85%, 45%);
+}
+
+.visual-bg{
+    background-color: hsl(231, 100%, 96%);
+}
+
+.btn-cus{
+    background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    
+}
+
